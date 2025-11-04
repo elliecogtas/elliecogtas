@@ -2,7 +2,7 @@
 
 I'm an Information Technology student at Xavier University - Ateneo de Cagayan with a growing passion for coding, creativity, and continuous learning.
 
-!elliecogtas's Stats](https://github-readme-stats.vercel.app/api?username=elliecogtas&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![elliecogtas's Stats](https://github-readme-stats.vercel.app/api?username=elliecogtas&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 - 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at Xavier University - Ateneo de Cagayan.
