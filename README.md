@@ -21,6 +21,7 @@ I'm an Information Technology student at Xavier University - Ateneo de Cagayan w
 - 🌟 Completed Git & GitHub Setup 2024
 - 🔭 I’m currently working on my final API project.
 
-## 💡 Fun Fact: I love listening to music.
+## 💡 Fun Fact
+- I love listening to music.
 
 Thanks for stopping by!
