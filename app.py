@@ -67,5 +67,7 @@ class KDramaResource(Resource):
 api.add_resource(KDramaListResource, '/kdramas')
 api.add_resource(KDramaResource, '/kdramas/<int:kdrama_id>')
 
+# Running the Flask app for K-Drama API
+
 if __name__ == '__main__':
     app.run(debug=True)
